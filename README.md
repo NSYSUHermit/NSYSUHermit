@@ -37,10 +37,10 @@
 
 | Period | Company | Position | Location | Responsibilities |
 | ------ | ------- | -------- | -------- | ---------------- |
-| May 2025 - Present | House of Holmes | IT/Web Development Intern | Mesa, Arizona, USA | Website maintenance & development, E-commerce integration, IT support |
-| Aug 2020 - Jul 2024 | ASUS | Software Development Engineer | Taipei, Taiwan | Built anomaly detection models, data processing, technical patents |
-| Sep 2019 - Jul 2020 | Time Square after school | Mathematics Teacher | Kaohsiung, Taiwan | Taught mathematics, assisted students with assignments |
-| Jul 2019 - Sep 2019 | BigGo | Data Analyst | Kaohsiung, Taiwan | Developed crawler scripts, price prediction models |
+| May 2025 - Present | House of Holmes | IT/Web Development Intern | 🇺🇸Mesa, Arizona, USA | Website maintenance & development, E-commerce integration, IT support |
+| Aug 2020 - Jul 2024 | ASUS | Software Development Engineer | 🇹🇼Taipei, Taiwan | Built anomaly detection models, data processing, technical patents |
+| Sep 2019 - Jul 2020 | Time Square after school | Mathematics Teacher | 🇹🇼Kaohsiung, Taiwan | Taught mathematics, assisted students with assignments |
+| Jul 2019 - Sep 2019 | BigGo | Data Analyst | 🇹🇼Kaohsiung, Taiwan | Developed crawler scripts, price prediction models |
 
 ---
 
