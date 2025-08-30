@@ -37,7 +37,7 @@
 
 | Period | Company | Position | Location | Responsibilities |
 | ------ | ------- | -------- | -------- | ---------------- |
-| Jul 2025 - Aug 2025 | DELL Technologies | Software Development Intern | Hybrid | Built RAG, LLM, MCP and NLP methods for meeting transcripts and summary |
+| Jul 2025 - Aug 2025 | DELL Technologies | Software Development Intern | 🇹🇼🇺🇸Hybrid | Built RAG, LLM, MCP and NLP methods for meeting transcripts and summary |
 | May 2025 - Aug 2025 | House of Holmes | IT/Web Development Intern | 🇺🇸Mesa, Arizona, USA | Website maintenance & development, Job Shop Scheduling integration, IT support |
 | Aug 2020 - Jul 2024 | ASUS | Software Development Engineer | 🇹🇼Taipei, Taiwan | Built anomaly detection models, data processing, technical patents |
 | Sep 2019 - Jul 2020 | Time Square after school | Mathematics Teacher | 🇹🇼Kaohsiung, Taiwan | Taught mathematics, assisted students with assignments |
