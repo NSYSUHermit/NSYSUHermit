@@ -49,7 +49,7 @@
 
 | Year | Award |
 | ---- | ----- |
-| 2025  | Honor Reward - DevHacks Hackathon |
+| 2025  | Honor Award - DevHacks Hackathon |
 | 2022 | 3rd Place - Intel DevCup |
 | 2020 | Merit Award - Taiwan Ministry of the Interior Data Innovation |
 | 2020 | 2nd Place - Service Science Society Competition |
