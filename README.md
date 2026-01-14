@@ -58,10 +58,11 @@
 
 ---
 
-### 📜 Publications & Patents
+### 📜 Publications & Patents & Projects
 
 | Type | Title |
 | ---- | ----- |
+| Project | Auto Split Bill with just a Snap (https://pic2split.design/) |
 | Publication | Data Synthesis by Anomaly Detection and GAN (2020) |
 | Patent | Anomaly Labeled-assistant Detection System |
 | Patent | Power Supply Health Check System |
