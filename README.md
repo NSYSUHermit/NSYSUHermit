@@ -28,7 +28,7 @@
 | Period | School | Degree / Major |
 | ------ | ------ | -------------- |
 | Aug 2024 - May 2026 | Arizona State University | Master's, Computer Software Engineering |
-| 2018 - 2020 | National Sun Yat-Sen University | Master's, Applied Mathematics of Statistics |
+| 2018 - 2020 | National Sun Yat-Sen University | Master's, Applied Mathematics at Statistics |
 | 2014 - 2018 | National Chiayi University | Bachelor's, Applied Mathematics |
 
 ---
